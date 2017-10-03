@@ -12,6 +12,7 @@
 		2672ECA31F835734004D0731 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2672ECA21F835734004D0731 /* ViewController.m */; };
 		2672ECA51F835734004D0731 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2672ECA41F835734004D0731 /* Assets.xcassets */; };
 		2672ECA81F835734004D0731 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2672ECA61F835734004D0731 /* Main.storyboard */; };
+		2672ECB11F836245004D0731 /* MyStudy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2672ECB01F836245004D0731 /* MyStudy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,8 @@
 		2672ECA41F835734004D0731 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2672ECA71F835734004D0731 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2672ECA91F835734004D0731 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2672ECAF1F836245004D0731 /* MyStudy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyStudy.h; sourceTree = "<group>"; };
+		2672ECB01F836245004D0731 /* MyStudy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyStudy.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				2672ECA21F835734004D0731 /* ViewController.m */,
 				2672ECA41F835734004D0731 /* Assets.xcassets */,
 				2672ECA61F835734004D0731 /* Main.storyboard */,
+				2672ECAF1F836245004D0731 /* MyStudy.h */,
+				2672ECB01F836245004D0731 /* MyStudy.m */,
 				2672ECA91F835734004D0731 /* Info.plist */,
 				2672EC9E1F835734004D0731 /* Supporting Files */,
 			);
@@ -149,6 +154,7 @@
 				2672ECA31F835734004D0731 /* ViewController.m in Sources */,
 				2672ECA01F835734004D0731 /* main.m in Sources */,
 				2672EC9D1F835734004D0731 /* AppDelegate.m in Sources */,
+				2672ECB11F836245004D0731 /* MyStudy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
